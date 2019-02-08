@@ -1,0 +1,4 @@
+Operating System: Windows 10 PC 
+RAM: 16GB 
+CPU: Intel Core i7-8850H CPU with 2.6 GHz
+Sampling Tool: ICPL Algorithm implemented in FeatureIDE https://featureide.github.io/
